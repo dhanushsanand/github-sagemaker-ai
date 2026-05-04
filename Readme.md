@@ -1,4 +1,4 @@
-# CodeSage AI 🧠⚡
+# Github Sagemaker AI 🧠⚡
 
 AI-powered GitHub repository analyzer with codebase explanation, debugging assistance, and file-level chat.
 
