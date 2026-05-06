@@ -16,7 +16,7 @@ export default function Navbar() {
             <div className="w-9 h-9 bg-gradient-to-br from-sage-400 to-emerald-500 rounded-xl flex items-center justify-center text-dark-950 font-bold text-lg shadow-lg shadow-sage-500/20 group-hover:shadow-sage-500/40 transition-all">
               ⚡
             </div>
-            <span className="text-xl font-bold gradient-text">CodeSage</span>
+            <span className="text-xl font-bold gradient-text">Github SageMaker</span>
             <span className="text-xs font-medium text-sage-500 bg-sage-500/10 px-2 py-0.5 rounded-full">AI</span>
           </NavLink>
           <div className="flex items-center gap-1">

@@ -16,7 +16,7 @@ AI-powered GitHub repository analyzer with codebase explanation, debugging assis
 # server/.env
 OPENAI_API_KEY=sk-your-openai-api-key
 GITHUB_TOKEN=ghp_your-github-token
-MONGO_URI=mongodb://localhost:27017/codesage
+MONGO_URI=mongodb://localhost:27017/githubsage
 PORT=5000
 ```
 
