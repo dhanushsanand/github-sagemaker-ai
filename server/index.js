@@ -22,6 +22,7 @@ app.use(rateLimit({
 
 app.use('/api', repoRoutes);
 
+app.get('/', (_, res) => res.json({ status: 'ok', service: 'github-sagemaker-ai-api' }));
 app.get('/health', (_, res) => res.json({ status: 'ok' }));
 
 app.use((err, _req, res, _next) => {
